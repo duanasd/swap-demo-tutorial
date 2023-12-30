@@ -1,4 +1,4 @@
-> **Note**
+> **Note*****
 > 📣 All API requests require a 0x API key. Legacy code examples may contain requests without API keys. Follow [this guide](https://0x.org/docs/introduction/getting-started) for how to get a live API key and use it for any 0x products.
 
 
